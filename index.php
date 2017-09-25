@@ -1,3 +1,3 @@
 <?php
-echo 'IP: '.$_SERVER['SERVER_ADDR'].'<br>';
+echo 'Current IP: '.$_SERVER['SERVER_ADDR'].'<br>';
 ?>

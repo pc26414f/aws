@@ -1,3 +1,3 @@
 <?php
-echo $_SERVER['SERVER_ADDR'];
+echo 'Private IP: '.$_SERVER['SERVER_ADDR'].'<br>';
 ?>

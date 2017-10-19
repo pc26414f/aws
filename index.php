@@ -1,5 +1,5 @@
 <?php
-$dt = date('Y-m-d H:i:s');
+$dt = date('Y-m-d H:i');
 ?>
 <html>
   <head>

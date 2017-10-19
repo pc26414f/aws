@@ -1,5 +1,5 @@
 <?php
-$dt = date('Y-m-d H:i').' '.date('e');
+$dt = date('Y-m-d H:i').' '.date('T');
 ?>
 <html>
   <head>
@@ -8,6 +8,6 @@ $dt = date('Y-m-d H:i').' '.date('e');
   <body>
     <p>Auto Deploy From GitHub Success!</p>
     <div>Current System Time: <?php echo $dt;?></div>
-    <div>By AWS CodeDeploy</div>
+    <div>By AWS CodeDeploy & GitHub Service</div>
   </body>
 </html>

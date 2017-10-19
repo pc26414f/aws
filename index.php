@@ -3,7 +3,7 @@ $dt = date('Y-m-d H:i').' '.date('T');
 ?>
 <html>
   <head>
-    <title>Auto Deploy From GitHub</title>
+    <title>AWS CodeDeploy</title>
   </head>
   <body>
     <p>Auto Deploy From GitHub Success!</p>

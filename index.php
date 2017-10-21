@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Taipei');
-$dt = date('Y-m-d H:i').' '.date('e');
+$dt = date('Y-m-d H:i').'('.date('e').')';
 ?>
 <html>
   <head>

@@ -9,3 +9,6 @@ permissions:
     owner: root
     group: root
     mode: 755
+hooks:
+  BeforeInstall:
+    - location: /root/purge.sh

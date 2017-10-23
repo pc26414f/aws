@@ -7,7 +7,7 @@ $dt = date('Y-m-d H:i').'('.date('e').')';
     <title>AWS CodeDeploy</title>
   </head>
   <body>
-    <p>Auto Deploy From GitHub Success!</p>
+    <p>Auto Deploy Trigger by GitHub Commit Success!</p>
     <div>Current System Time: <?php echo $dt;?></div>
     <div>By AWS CodeDeploy with GitHub Integrations & Services</div>
     <div>BTW, GitHub Auto Deployment API Sucks!</div>

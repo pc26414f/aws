@@ -30,7 +30,7 @@ try{
     <div>
       <ul>
         <?php /*foreach($response as $row){*/ ?>
-        <li>ID: <?php echo $row['id'];?>, Name: <?php echo $row['name'];?></li>
+        <li>ID: <?php #echo $row['id'];?>, Name: <?php #echo $row['name'];?></li>
         <?php /*}*/ ?>
       </ul>
     </div>
